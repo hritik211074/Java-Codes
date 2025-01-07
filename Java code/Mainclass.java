@@ -1,5 +1,5 @@
 import java.util.*;
- class Mainclass{
+ public class Mainclass{
     public Mainclass(){
         System.out.println("mainclass cosntructor");
     }
