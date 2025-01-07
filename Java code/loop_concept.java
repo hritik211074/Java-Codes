@@ -16,5 +16,6 @@ public class loop_concept {
             System.out.println(j);
             j++;
         }
+       Mainclass s1=new Mainclass();
     }
 }
